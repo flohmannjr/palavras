@@ -1,0 +1,1 @@
+jar -cfM Palavras.jar META-INF/MANIFEST.MF edu/flj/Palavras/*.class

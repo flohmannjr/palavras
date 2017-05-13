@@ -1,0 +1,7 @@
+Projeto Palavras
+
+To do list:
+
+- Abilitar clique não exato;
+
+- Marcar automaticamente palavras completadas;
